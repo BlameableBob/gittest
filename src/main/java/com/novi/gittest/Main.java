@@ -16,6 +16,7 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("GGGGGGGGGGGGGGGGGG");
+        System.out.println("WAAROM2");
     }
     
 }
