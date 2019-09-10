@@ -17,6 +17,10 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("GGGGGGGGGGGGGGGGGG");
         System.out.println("WAAROM2");
+        
+        System.out.println("Hoi Bob, Jason hier!");
+        System.out.println("Ik werk in jou Gittest project");
+        System.out.println("Ltrrrr");
     }
     
 }
